@@ -1,7 +1,7 @@
 # RHYA — Secure Data Erasure & Advanced File Recovery Toolkit
 
 <p align="center">
-  <img src="assets/rhya-logo.png" alt="RHYA Logo" width="180"/>
+  <img src="assets/rhya-logo.jpeg" alt="RHYA Logo" width="180"/>
   <br><br>
   <b>Integrated Digital Forensics, Advanced File Recovery & Secure Data Sanitization</b>
   <br>
